@@ -13,7 +13,7 @@ body{
  	justify-content:center;
  	background:#323237;
  	width:100vw;
- 	min-height:100vh;
+ 	height:100vh;
 }
 
 .container{
@@ -110,9 +110,9 @@ button{
        position:absolute;
        font-size:1.5rem;
        font-weight:bold;
-       left:0;
-       top:50%;
-       transform:translateY(-50%);
+       left:50%;
+       top:0;
+       transform:translateX(-50%);
        background: linear-gradient(90deg,#f0f,#0f0, #0ff);
        background-repeat:repeat-x;
        background-size:450%;
