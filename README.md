@@ -1,2 +1,2 @@
-# color-response-
+# color-response
 Fast color response
